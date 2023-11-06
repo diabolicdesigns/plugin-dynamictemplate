@@ -77,7 +77,7 @@ $lang = array(
   												),
   
   'dynamictemplate_customcheck_info'	=> 'With this plugin you can place anywhere in your template HTML code and manage them.
-  											<br>Instructions and more information can be found in the <a href="https://eqdkp-plus.eu/wiki/Plugin:_Dynamic_Template">Wiki-article</a>.',
+  											<br>Instructions and more information can be found in the <a href="https://eqdkpplus.github.io/wiki/wiki/Dynamic_Template.html">Wiki-article</a>.',
   'dynamictemplate_import_info'			=> 'With this code can you trade your modules or insert a new code and import other modules.
   											<br />Before you press save, check your new settings, cause the modules are 1:1 imported.',
 );
