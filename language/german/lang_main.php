@@ -77,7 +77,7 @@ $lang = array(
   												),
   
   'dynamictemplate_customcheck_info' 	=> 'Mit diesem Plugin kannst du HTML-Code über eine Template-Variable an beliebiger Stelle in deinem Template platzieren und den HTML-Code hier verwalten.
-  											<br>Eine Anleitung und weitere Informationen findest du im <a href="https://eqdkp-plus.eu/wiki/Plugin:_Dynamic_Template">Wiki-Artikel</a>.',
+  											<br>Eine Anleitung und weitere Informationen findest du im <a href="https://eqdkpplus.github.io/wiki/wiki/Dynamic_Template.html">Wiki-Artikel</a>.',
   'dynamictemplate_import_info'			=> 'Mit diesem Code können deine Module weitergegeben werden oder füge stattdessen ein erhaltenen Code ein um neue Module zu erhalten.
   											<br />Bitte prüfe vor dem speichern ob die Variablennamen und Aktivierungen korrekt sind, da ein Import 1:1 übernommen werden.',
 );
